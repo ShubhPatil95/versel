@@ -29,7 +29,6 @@ confluent-kafka==1.9.2
 cryptography==2.8
 dbus-python==1.2.16
 decorator==4.4.2
-defer==1.0.6
 defusedxml==0.6.0
 dictdiffer==0.9.0
 diskcache==5.4.0
