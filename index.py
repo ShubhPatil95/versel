@@ -13,9 +13,9 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
 
 #load model
-best_model = load_model('/home/shubham/Dha/test.model')
+#best_model = load_model('/home/shubham/Dha/test.model')
 
-best_model = load_model('/home/shubham/Dha/deploy/ASD_new/besttest-1.model')
+best_model = load_model('besttest-1.model')
 
 print('@@ Model loaded')
 
